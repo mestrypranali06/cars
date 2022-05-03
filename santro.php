@@ -4,6 +4,6 @@
     <title>Cars | Santro</title>
   </head>
   <body>
-	<h1>SANTRO BODY</h1>
+	<h1 style="color: red;">SANTRO BODY</h1>
   </body>
 </html>

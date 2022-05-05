@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Cars | Santro</title>
+
 	
 	<style>
 		#eform{
@@ -13,6 +14,7 @@
   <body>
 	<h1 style="color: red;">SANTRO BODY</h1>
 	
+
 	<form action="mailto:hermione@potionfy.com" method="post" enctype="text/plain" id="eform">
 Name:<br>
     <input type="text" name="name"><br>
@@ -24,3 +26,4 @@ Name:<br>
 
 </body>
 </html>
+

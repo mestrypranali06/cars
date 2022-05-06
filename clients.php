@@ -13,13 +13,7 @@
     
     <div class="container">
     
-      <ul class"ulist">
-
-      </ul>
-      
-    </div>
-  
-	  <ul>
+      <ul class="ulist">
 	  
 		<li>
 			Peter Inc
@@ -34,6 +28,10 @@
 		</li>
 		
 	  </ul>
+      
+    </div>
+  
+	  
   
   </body>
 </html>

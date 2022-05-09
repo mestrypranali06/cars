@@ -23,15 +23,11 @@
     
       <div id="addtit"> Branch Name </div>
       <div id="adddet">
-        Branch Address
+        	Branch: Mumbai
+			Address: 101, malad, mumbai
+			Mobile: 9967501651
+			Fax: 9967501652
       </div>
-  
-  <div>
-	Branch: Mumbai
-	Address: 101, malad, mumbai
-	Mobile: 9967501651
-	Fax: 9967501652
-  </div>
   
   </body>
 </html>

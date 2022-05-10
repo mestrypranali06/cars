@@ -21,7 +21,7 @@
     
     <h1> Contact Us </h1>
     
-      <div id="addtit"> Branch Name </div>
+      <div id="addtit"> Mumbai Branch </div>
       <div id="adddet">
         	Branch: Mumbai
 			Address: 101, malad, mumbai

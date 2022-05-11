@@ -4,6 +4,6 @@
     <title>Cars | Product</title>
   </head>
   <body>
-Developer product details here  
+Designer product details here
   </body>
 </html>

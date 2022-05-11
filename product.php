@@ -3,6 +3,7 @@
   <head>
     <title>Cars | Product</title>
   </head>
-  <body> 
+  <body>
+Developer product details here  
   </body>
 </html>
